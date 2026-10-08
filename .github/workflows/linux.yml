@@ -214,3 +214,4 @@ jobs:
           name: ${{ env.ARTIFACT_NAME }}
           path: out/Debug/artifact/
           retention-days: 1
+# ci trigger
